@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/friends/static/css/main.82e00fc7.chunk.css",
+    "main.js": "/friends/static/js/main.264f9c08.chunk.js",
+    "main.js.map": "/friends/static/js/main.264f9c08.chunk.js.map",
+    "runtime-main.js": "/friends/static/js/runtime-main.35d41fb6.js",
+    "runtime-main.js.map": "/friends/static/js/runtime-main.35d41fb6.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/friends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.bce10cf0.chunk.js": "/friends/static/js/2.bce10cf0.chunk.js",
+    "static/js/2.bce10cf0.chunk.js.map": "/friends/static/js/2.bce10cf0.chunk.js.map",
+    "index.html": "/friends/index.html",
+    "precache-manifest.3c1aac570beeb47c6fe805f055ad508f.js": "/friends/precache-manifest.3c1aac570beeb47c6fe805f055ad508f.js",
+    "service-worker.js": "/friends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/friends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.82e00fc7.chunk.css.map": "/friends/static/css/main.82e00fc7.chunk.css.map",
+    "static/js/2.bce10cf0.chunk.js.LICENSE.txt": "/friends/static/js/2.bce10cf0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/friends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d41fb6.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.bce10cf0.chunk.js",
+    "static/css/main.82e00fc7.chunk.css",
+    "static/js/main.264f9c08.chunk.js"
+  ]
+}
