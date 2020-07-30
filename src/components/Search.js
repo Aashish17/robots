@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Search=({searchfield, searchchange})=>{
+const Search=({ searchchange})=>{
 
 	return(
 		<div >

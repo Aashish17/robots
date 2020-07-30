@@ -12,6 +12,7 @@ import Card from './Card'
 	return(
 		<div>
 			{component}
+			
 			</div>
 		)
 }
